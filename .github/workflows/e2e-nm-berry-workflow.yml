@@ -41,5 +41,60 @@ jobs:
       run: |
         source scripts/e2e-setup-ci.sh nm
         cd -
+
         NM_DEBUG_LEVEL=1 yarn
       shell: bash
+A Penetration Testing Framework created for H@¢kers / Pentester / Bug HunterWeb Pentest 
+
+Information Gathering:
+
+Banner Grab
+Whois 
+Traceroute 
+DNS Record 
+Reverse DNS Lookup 
+Zone Transfer Lookup 
+Port Scan 
+Admin Panel Scan 
+Subdomain Scan 
+CMS Identify 
+Reverse IP Lookup 
+Subnet Lookup 
+Extract Page Links 
+Directory Fuzz (NEW) 
+File Fuzz (NEW) 
+Shodan Search (NEW) 
+Shodan Host Lookup (NEW)
+Web Application Attack: (NEW)
+Wordpress 
+Auto SQL Injection 
+
+Generator:
+
+Deface Page 
+Password Generator
+Text To Hash
+
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install python2
+
+$ apt install python
+
+$ git clone https://github.com/cr4shcod3/pureblood
+
+$ cd pureblood
+
+$ chmod +x *
+
+$ pip install -r requirements.txt
+
+Run : 
+
+$ python2 pureblood.py
+
+Now select your option, this tool will guide you...
